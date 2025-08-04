@@ -1,0 +1,18 @@
+body {background:#FFFFFF; color:#000000; font-family:Arial,Verdana,Times,Helvetica; font-size:13px; margin-left:10px; margin-top:44px; line-height:60%; text-align:left;}
+h1   {background:#FFFFFF; color:#000000; font-family:Arial,Verdana,Times,Helvetica; font-size:15px; margin:0px; margin-left:10px; margin-top:-4px; margin-right:-800px; line-height:220%; text-align:left; text-indent:10px; font-weight:bold  ;}
+h2   {background:#FFFFFF; color:#000000; font-family:Arial,Verdana,Times,Helvetica; font-size:15px; margin:0px; margin-left:10px;                  margin-right:-800px; line-height:200%; text-align:left; text-indent:10px; font-weight:normal;}
+img  {margin:0px; border:0px; vertical-align:middle;}
+
+.Titlebar_Process { background:#050505; color:#F5F5F5;  font-family:Arial,Verdana,Times,Helvetica; font-size:15px;  font-weight:bold; font-variant:small-caps; padding-left:213px; line-height:40px; position:fixed; left:0px; top:0px; width:7000px; }
+.Titlebar_Welcome { background:#050505; color:#F5F5F5;  font-family:Arial,Verdana,Times,Helvetica; font-size:15px;  font-weight:bold; font-variant:small-caps; padding-left:15px; line-height:40px; position:fixed; left:0px; top:0px; width:7000px; }
+.Button_Process { background:#050505; color:#F5F5F5;  padding-left:5px; line-height:36px; position:fixed; left:0px; top:2px; height:36px; width:200px; }
+
+.Button_Enabled        {background-color:#050505; width:32px; height:28px; top:0px; border:none; border-radius:5px; color:white; padding:0px 0px; text-align:center; font-size:14px; margin:1px 2px; opacity:0.6; transition:0.3s; display:inline-block; text-decoration:none; cursor:pointer;}
+.Button_Enabled:hover  {opacity:1   }
+.Button_Enabled:img    {float:middle}
+
+.Button_Disabled       {background-color:#C0C0C0; width:32px; height:28px; top:0px; border:none; border-radius:5px; color:white; padding:0px 0px; text-align:center; font-size:14px; margin:1px 2px; opacity:0.6; transition:0.3s; display:inline-block; text-decoration:none; cursor:default;}
+.Button_Disabled:hover {opacity:1   }
+.Button_Disabled:img   {float:middle}
+
+
